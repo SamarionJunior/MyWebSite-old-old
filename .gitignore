@@ -13,6 +13,14 @@
 # production
 /build
 
+/public
+
+/src
+
+package-lock.json
+package.json
+README.md
+
 # misc
 .DS_Store
 .env.local
