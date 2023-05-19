@@ -190,7 +190,7 @@ const Home = _ => {
                                 <Link to="https://github.com/SamarionJunior" target="_blank" rel="noopener noreferrer">
                                     <i className="fa-brands fa-github"></i>
                                 </Link>
-                                <Link to="www.linkedin.com/in/samarion-junior" target="_blank" rel="noopener noreferrer">
+                                <Link to="https://www.linkedin.com/in/samarion-junior" target="_blank" rel="noopener noreferrer">
                                     <i className="fa-brands fa-linkedin"></i>
                                 </Link>
                             </div>
